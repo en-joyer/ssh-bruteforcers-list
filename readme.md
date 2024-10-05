@@ -1,4 +1,4 @@
-# SSH Bruteforce Attempts Analysis
+# SSH Bruteforce Attempts
 
 ## Overview
 
